@@ -21,7 +21,7 @@ A powerful and intuitive Task Management Dashboard built with Python and Streaml
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/yourusername/task-master-pro.git](https://github.com/yourusername/task-master-pro.git)
+    git clone [https://github.com/ChubbyGIT/Task-Manager-Pro.git](https://github.com/ChubbyGIT/Task-Manager-Pro.git)
     cd task-master-pro
     ```
 
